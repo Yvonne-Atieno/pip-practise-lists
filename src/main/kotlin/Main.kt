@@ -24,6 +24,8 @@ fun nums(num:Array<Int>):Int{
     return sum
 }
 
+
+
 //No 2
 //Write a Kotlin program that prints "Hello, world!" to the console.
 fun greetings(){
